@@ -17,8 +17,11 @@ EL Archivo de datos Datos.xslm contiene las anotaciones de los eventos ocurridos
 
 Debido a la naturaleza del conjunto de datos solo será disponible por el momento para miembros de la comunidad académica de la Universidad Nacional de Colombia. Este documento puede encontrarse en este [enlace.](https://docs.google.com/document/d/1gXCuSWAIwyD7BDOZR9YlFsEYG7aAFjewVMyjsqSQNEk/edit?usp=sharing) 
 
-# YOLOv4-Cloud-Tutorial
-[![Train Custom Model In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_GdoqCJWXsChrOiY8sZMr_zbr_fH-0Fg?usp=sharing)
+# Notebook del proyecto disponible en Google Colab 
+
+Debido a las neceidades tecnicas del proyecto se recomienda el uso de esta plataforma ya que es como mínimo  el uso necesario  de GPUs.
+ 
+[![Ingrese aqui](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_GdoqCJWXsChrOiY8sZMr_zbr_fH-0Fg?usp=sharing)
 
 Este repositorio lo guía a través de cómo construir, entrenar y ejecutar detecciones de objetos YOLOv4 con Darknet en la nube a través de Google Colab.
 
