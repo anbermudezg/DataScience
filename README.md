@@ -12,7 +12,7 @@ Según [cifras](http://www.indepaz.org.co/victimas-de-violencia-homicida-en-el-m
 Debido a esto y a las inconsistencias entre las cifras [presentadas](https://www.oas.org/es/cidh/informes/pdfs/ObservacionesVisita_CIDH_Colombia_SPA.pdf) por las diferentes entidades gubernamentales. La ciudadanía manifestante,  organizaciones de Derechos Humanos, colectivos de periodistas independientes, transeúntes que  no están involucrados directamente en las actividades de paro, congresistas, entre  otros, han  decidido usar como medio de divulgación masiva de información las redes sociales en especial la red social Twitter, Instagram, Facebook y la reciente Tiktok. El denominado [*bombardeo de información*](https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2021-06/Digital_News_Report_2021_FINAL.pdf) ha ocasionado una sobresaturación en la ciudadanía que a diario ve como cientos de videos circulan por sus redes y les es difícil determinar la veracidad de los contenidos que observan o tan siquiera determinar  una línea coherente de tiempo  que asimilar y/o  tomar posturas no sesgadas sobre los acontecimientos.
 
 # YOLOv4-Cloud-Tutorial
-[! [Entrenar modelo personalizado en Colab] (https://colab.research.google.com/assets/colab-badge.svg)] (https://colab.research.google.com/drive/1_GdoqCJWXsChrOiY8sZMr_zbr_fH-0Fg? usp = compartir)
+[![Train Custom Model In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_GdoqCJWXsChrOiY8sZMr_zbr_fH-0Fg?usp=sharing)
 
 Este repositorio lo guía a través de cómo construir, entrenar y ejecutar detecciones de objetos YOLOv4 con Darknet en la nube a través de Google Colab.
 
