@@ -26,6 +26,12 @@ Debido a las neceidades tecnicas del proyecto se recomienda el uso de esta plata
 ![Duración promedio de entrenamiento](Yolov4Configuracion/duracionpromedio.JPG)
 
 
+## Reporte Final:
+
+!Aún en construcción! disponible [aquí](https://docs.google.com/document/d/1CkJoAAAN3VM_VEQy149VB3vQMX-_Y40xKQdkqFUY_ac/edit?usp=sharing)
+
+
+
 ### Ejemplo de video YOLOv4
 <p align = "center"> <img src = "videos / yolov4-webcam-demo.gif" \> </p>
 
