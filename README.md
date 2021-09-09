@@ -20,8 +20,8 @@ Debido a la naturaleza del conjunto de datos solo será disponible por el moment
 ## Notebook del proyecto disponible en Google Colab 
 
 Debido a las neceidades tecnicas del proyecto se recomienda el uso de esta plataforma ya que es como mínimo  el uso necesario  de GPUs.
- 
-[![Ingrese aqui](https://drive.google.com/file/d/19VXUMbL0l1JVdM5LoVpKpHdZ_ZkFMMuR/view?usp=sharing)]
+ [![Train Custom Model In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/19VXUMbL0l1JVdM5LoVpKpHdZ_ZkFMMuR/view?usp=sharing))
+
 
 
 
