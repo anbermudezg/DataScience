@@ -21,7 +21,7 @@ Debido a la naturaleza del conjunto de datos solo será disponible por el moment
 
 Debido a las neceidades tecnicas del proyecto se recomienda el uso de esta plataforma ya que es como mínimo  el uso necesario  de GPUs. Aunque como sugerencia es necesaria la versión Colab Pro debido a su extenso y continuo uso de estos elementos. 
 
-! [Duración promedio de entrenamiento] (I1)
+! [Duración promedio de entrenamiento] (I1.JPG)
  
 
 
