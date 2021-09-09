@@ -21,9 +21,9 @@ Debido a la naturaleza del conjunto de datos solo será disponible por el moment
 
 Debido a las neceidades tecnicas del proyecto se recomienda el uso de esta plataforma ya que es como mínimo  el uso necesario  de GPUs.
  
-[![Ingrese aqui](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_GdoqCJWXsChrOiY8sZMr_zbr_fH-0Fg?usp=sharing)
+[![Ingrese aqui](https://drive.google.com/file/d/19VXUMbL0l1JVdM5LoVpKpHdZ_ZkFMMuR/view?usp=sharing)
 
-Este repositorio lo guía a través de cómo construir, entrenar y ejecutar detecciones de objetos YOLOv4 con Darknet en la nube a través de Google Colab.
+
 
 ! [Ejemplo de detecciones YOLOv4] (imágenes / detección1.jpg)
 
