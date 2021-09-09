@@ -13,7 +13,9 @@ Debido a esto y a las inconsistencias entre las cifras [presentadas](https://www
 
 EL Archivo de datos Datos.xslm contiene las anotaciones de los eventos ocurridos en el marco del Paro Nacional durante los últimos 5 meses. Estos se dejarán de actualizar el dia 09 de septiembre de 2021.
 
-**Entregables:** Debido a la naturaleza del conjunto de datos solo será disponible por el momento para miembros de la comunidad académica de la Universidad Nacional de Colombia. Este documento puede encontrarse en este [enlace](https://docs.google.com/document/d/1gXCuSWAIwyD7BDOZR9YlFsEYG7aAFjewVMyjsqSQNEk/edit?usp=sharing) 
+## **Entregables:** 
+
+Debido a la naturaleza del conjunto de datos solo será disponible por el momento para miembros de la comunidad académica de la Universidad Nacional de Colombia. Este documento puede encontrarse en este [enlace.](https://docs.google.com/document/d/1gXCuSWAIwyD7BDOZR9YlFsEYG7aAFjewVMyjsqSQNEk/edit?usp=sharing) 
 
 # YOLOv4-Cloud-Tutorial
 [![Train Custom Model In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_GdoqCJWXsChrOiY8sZMr_zbr_fH-0Fg?usp=sharing)
