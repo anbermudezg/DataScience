@@ -19,6 +19,8 @@ Debido a la naturaleza del conjunto de datos solo será disponible por el moment
 
 ## Notebook del proyecto disponible en Google Colab 
 
+[![Train Custom Model In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/19VXUMbL0l1JVdM5LoVpKpHdZ_ZkFMMuR/view?usp=sharing)
+
 Debido a las neceidades tecnicas del proyecto se recomienda el uso de esta plataforma ya que es como mínimo  el uso necesario  de GPUs. Aunque como sugerencia es necesaria la versión Colab Pro debido a su extenso y continuo uso de estos elementos. 
 
 ![Duración promedio de entrenamiento](Yolov4Configuracion/duracionpromedio.JPG)
